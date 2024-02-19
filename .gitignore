@@ -4,3 +4,4 @@
 *.net
 
 !two.txt
+[aeious]*.java
