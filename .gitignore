@@ -2,3 +2,5 @@
 *.php
 *.txt
 *.net
+
+!two.txt
